@@ -13,18 +13,17 @@
          <ClosedNode>/tb_display - behavior C:|Users|Jacob|Dropbox|PRODE1|XILINX|stop_watch_assembly|tb_display.vhd</ClosedNode>
          <ClosedNode>/tb_display - behavior C:|Users|Jacob|Dropbox|PRODE1|XILINX|stop_watch_assembly|tb_display.vhd/uut - display - Behavioral</ClosedNode>
          <ClosedNode>/tb_line_decoder - behavior C:|Users|Jacob|Dropbox|PRODE1|XILINX|stop_watch_assembly|tb_line_decoder.vhd</ClosedNode>
-         <ClosedNode>/tb_multiplexer - behavior C:|Users|Jacob|Dropbox|PRODE1|XILINX|stop_watch_assembly|tb_multiplexer.vhd</ClosedNode>
          <ClosedNode>/time_counter_test - behavior C:|Users|Jacob|Dropbox|PRODE1|XILINX|stop_watch_assembly|time_counter_test.vhd</ClosedNode>
          <ClosedNode>/time_counter_test - behavior C:|Users|Jacob|Dropbox|PRODE1|XILINX|stop_watch_assembly|time_counter_test.vhd/uut - time_counter - Structural</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>top_module - Behavioral (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/top_module.vhd)</SelectedItem>
+         <SelectedItem>uut - multiplexer - Behavioral (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/multiplexer.vhd)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >4</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001c5000000020000000000000000000000000200000064ffffffff000000810000000300000002000001c50000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>top_module - Behavioral (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/top_module.vhd)</CurrentItem>
+      <CurrentItem>uut - multiplexer - Behavioral (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/multiplexer.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -32,13 +31,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001c7000000010000000100000000000000000000000064ffffffff000000810000000000000001000001c70000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
@@ -71,13 +70,13 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>Synthesize - XST</SelectedItem>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >7</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001b6000000010000000100000000000000000000000064ffffffff000000810000000000000001000001b60000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001c7000000010000000100000000000000000000000064ffffffff000000810000000000000001000001c70000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>Synthesize - XST</CurrentItem>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
       <ClosedNodes>
@@ -106,13 +105,13 @@
          <ClosedNode>/top_module - Behavioral C:|Users|Jacob|Dropbox|PRODE1|XILINX|stop_watch_assembly|top_module.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>time_counter_test - behavior (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/time_counter_test.vhd)</SelectedItem>
+         <SelectedItem>tb_multiplexer - behavior (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/tb_multiplexer.vhd)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >1</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >4</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000194000000020000000000000000000000000200000064ffffffff000000810000000300000002000001940000000100000003000000000000000100000003</ViewHeaderState>
-      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>time_counter_test - behavior (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/time_counter_test.vhd)</CurrentItem>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001d9000000020000000000000000000000000200000064ffffffff000000810000000300000002000001d90000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>tb_multiplexer - behavior (C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/tb_multiplexer.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>

@@ -1,0 +1,8 @@
+work	"counter.vhd"
+work	"decoder.vhd"
+work	"display.vhd"
+work	"line_decoder.vhd"
+work	"multiplexer.vhd"
+work	"sub_time_counter.vhd"
+work	"time_counter.vhd"
+work	"top_module.vhd"
