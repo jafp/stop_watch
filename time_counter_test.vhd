@@ -71,9 +71,6 @@ BEGIN
    stim_proc: process
 	begin
 	
-	--	test
-	--	tæller op til 10 minutter, sætter enable low i 11 cycles svarende til at 
-	--	hundrededelssekund burde have talt en op og resetter derefter
 		ENABLE <= '1';
 		RESET <= '0';
 		wait for CLK_period*600001;

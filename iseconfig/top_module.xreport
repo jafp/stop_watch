@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2012-03-28T11:00:53</DateModified>
+  <DateModified>2012-03-28T18:20:14</DateModified>
   <ModuleName>top_module</ModuleName>
-  <SummaryTimeStamp>2012-03-28T10:58:11</SummaryTimeStamp>
+  <SummaryTimeStamp>2012-03-28T11:36:46</SummaryTimeStamp>
   <SavedFilePath>C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/iseconfig/top_module.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly\</ImplementationReportsDirectory>
   <DateInitialized>2012-03-28T10:04:42</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

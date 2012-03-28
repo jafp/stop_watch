@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/time_counter_test_isim_beh.exe" -prj "C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/time_counter_test_beh.prj" "work.time_counter_test" 
+-intstyle "ise" -incremental -o "C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/tb_display_isim_beh.exe" -prj "C:/Users/Jacob/Dropbox/PRODE1/XILINX/stop_watch_assembly/tb_display_beh.prj" "work.tb_display" 
